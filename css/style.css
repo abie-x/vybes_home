@@ -717,4 +717,7 @@ body {
     height: 200px;
     width: 500px; */
   }
+  .left-align-img {
+    margin-top: -3rem;
+  }
 }
